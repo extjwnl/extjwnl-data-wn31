@@ -2,7 +2,7 @@
 
 extJWNL WordNet 3.1 Data contains dictionary files
 from Unix version of WordNet 3.1 augmented with
-a configuration file for extJWNL for extremely easy
+an extJWNL configuration file for an extremely easy
 use of WordNet-like semantic resources in your project.
 
 # Getting started
@@ -13,12 +13,12 @@ In the pom.xml:
 <dependency>
     <groupId>net.sf.extjwnl</groupId>
     <artifactId>extjwnl</artifactId>
-    <version>1.7.1</version>
+    <version>1.8.0</version>
 </dependency>
 <dependency>
     <groupId>net.sf.extjwnl</groupId>
     <artifactId>extjwnl-data-wn31</artifactId>
-    <version>1.1</version>
+    <version>1.2</version>
 </dependency>
 ```
 
